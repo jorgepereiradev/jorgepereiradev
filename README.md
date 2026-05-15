@@ -18,7 +18,7 @@ Atualmente, trabalho como desenvolvedor full-stack, utilizando Vue.js para a con
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-gray?style=for-the-badge&logo=microsoft-sql-server)
 
 <div>
-  <a href="https://github.com/JPereira29">
+  <a href="https://github.com/jorgepereiradev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jorgepereiradev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgepereiradev&layout=compact&langs_count=7&theme=dark&hide=Python,PowerShell"/>
 </div>
